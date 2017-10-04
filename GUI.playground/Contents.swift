@@ -23,3 +23,11 @@ secondLabel.center = CGPoint(x: 160, y: 285)
 secondLabel.textAlignment = .left
 secondLabel.text = "I am not right"
 
+var firstView = UIView(frame: CGRect(x: 100, y: 100, width: 200, height: 200))
+firstView.addSubview(firstButton)
+
+var secondView = UIView(frame: CGRect(x: 50, y: 50, width: 500, height: 200))
+secondView.addSubview(secondButton)
+
+var thirdView = UIView(frame: CGRect(x: 50, y: 100, width: 700, height: 300))
+thirdView.addSubview(firstLabel)
