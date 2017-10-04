@@ -3,17 +3,27 @@
    version = "3.0">
    <TimelineItems>
       <LoggerValueHistoryTimelineItem
-         documentLocation = "file:///Users/dhea8398/Documents/playgrounds/GUI/GUI.playground#CharacterRangeLen=11&amp;CharacterRangeLoc=217&amp;EndingColumnNumber=12&amp;EndingLineNumber=7&amp;StartingColumnNumber=1&amp;StartingLineNumber=7&amp;Timestamp=528819841.929129"
+         documentLocation = "file:///Users/dhea8398/Documents/playgrounds/GUI/GUI.playground#CharacterRangeLen=11&amp;CharacterRangeLoc=217&amp;EndingColumnNumber=12&amp;EndingLineNumber=7&amp;StartingColumnNumber=1&amp;StartingLineNumber=7&amp;Timestamp=528821253.182585"
          selectedRepresentationIndex = "0"
          shouldTrackSuperviewWidth = "NO">
       </LoggerValueHistoryTimelineItem>
       <LoggerValueHistoryTimelineItem
-         documentLocation = "file:///Users/dhea8398/Documents/playgrounds/GUI/GUI.playground#CharacterRangeLen=185&amp;CharacterRangeLoc=309&amp;EndingColumnNumber=64&amp;EndingLineNumber=12&amp;StartingColumnNumber=0&amp;StartingLineNumber=9&amp;Timestamp=528819841.929255"
+         documentLocation = "file:///Users/dhea8398/Documents/playgrounds/GUI/GUI.playground#CharacterRangeLen=185&amp;CharacterRangeLoc=309&amp;EndingColumnNumber=64&amp;EndingLineNumber=12&amp;StartingColumnNumber=0&amp;StartingLineNumber=9&amp;Timestamp=528821253.182691"
          selectedRepresentationIndex = "0"
          shouldTrackSuperviewWidth = "NO">
       </LoggerValueHistoryTimelineItem>
       <LoggerValueHistoryTimelineItem
-         documentLocation = "file:///Users/dhea8398/Documents/playgrounds/GUI/GUI.playground#CharacterRangeLen=12&amp;CharacterRangeLoc=431&amp;EndingColumnNumber=13&amp;EndingLineNumber=12&amp;StartingColumnNumber=1&amp;StartingLineNumber=12&amp;Timestamp=528819841.929353"
+         documentLocation = "file:///Users/dhea8398/Documents/playgrounds/GUI/GUI.playground#CharacterRangeLen=12&amp;CharacterRangeLoc=431&amp;EndingColumnNumber=13&amp;EndingLineNumber=12&amp;StartingColumnNumber=1&amp;StartingLineNumber=12&amp;Timestamp=528821253.182775"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/dhea8398/Documents/playgrounds/GUI/GUI.playground#CharacterRangeLen=10&amp;CharacterRangeLoc=727&amp;EndingColumnNumber=11&amp;EndingLineNumber=17&amp;StartingColumnNumber=1&amp;StartingLineNumber=17&amp;Timestamp=528821253.182857"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/dhea8398/Documents/playgrounds/GUI/GUI.playground#CharacterRangeLen=11&amp;CharacterRangeLoc=953&amp;EndingColumnNumber=12&amp;EndingLineNumber=23&amp;StartingColumnNumber=1&amp;StartingLineNumber=23&amp;Timestamp=528821253.182935"
          selectedRepresentationIndex = "0"
          shouldTrackSuperviewWidth = "NO">
       </LoggerValueHistoryTimelineItem>
