@@ -30,4 +30,12 @@ var secondView = UIView(frame: CGRect(x: 50, y: 50, width: 500, height: 200))
 secondView.addSubview(secondButton)
 
 var thirdView = UIView(frame: CGRect(x: 50, y: 100, width: 700, height: 300))
-thirdView.addSubview(firstLabel)
+
+var dateView = UIView(frame: CGRect(x: 50, y: 50, width: 500, height: 300))
+dateView.backgroundColor = .green
+
+var datePicker = UIDatePicker(frame: CGRect(x: 50, y: 50, width: 400, height: 200))
+datePicker.datePickerMode = .date
+
+dateView.addSubview(datePicker)
+
